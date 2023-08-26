@@ -1,4 +1,4 @@
-RESTAURANT_BILLING_SYSTEM
+#RESTAURANT_BILLING_SYSTEM
 This is a simple billing system application developed using Python and Tkinter. It allows the restaurant staff to take orders, calculate the total bill, and generate a printable bill receipt for the customers.
 
 Features
